@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 1,
+        "email": "Rama.putra1906@gmail.com",
+        "first_name": "Rama",
+        "last_name": "Pradana",
+        "avatar": "https://awsimages.detik.net.id/community/media/visual/2020/07/13/manga-naruto-1_43.webp"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
